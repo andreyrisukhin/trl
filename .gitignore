@@ -1,3 +1,7 @@
+# Do not commit checkpoints
+output/
+
+
 benchmark/trl
 *.bak
 .gitattributes
